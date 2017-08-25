@@ -30,12 +30,12 @@ Version: 1.0.0
 
 ################################################################# */
 /* STYLE */
-@import url(font-awesome.css) screen;
-@import url(bootstrap.css) screen;
-@import url(owl.carousel.css) screen;
-@import url(prettyPhoto.css) screen;
-@import url(animate.min.css) screen;
-@import url(pe-icon-7-stroke.css) screen;
+@import url(https://github.com/raficoo/KLASIK-NAUGHTY/blob/master/css/font-awesome.css) screen;
+@import url(https://github.com/raficoo/KLASIK-NAUGHTY/blob/master/css/bootstrap.css) screen;
+@import url(https://github.com/raficoo/KLASIK-NAUGHTY/blob/master/css/owl.carousel.css) screen;
+@import url(https://github.com/raficoo/KLASIK-NAUGHTY/blob/master/css/prettyPhoto.css) screen;
+@import url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/5bc266ff/css/animate.min.css) screen;
+@import url(https://github.com/raficoo/KLASIK-NAUGHTY/blob/master/css/pe-icon-7-stroke.css) screen;
 
 /* FONTS */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,600,600italic,700,800,400italic);
@@ -714,11 +714,11 @@ html, body, .wrapper{
         position: absolute;
         top: 0;
         left: 0;
-        cursor: url(../images/pause.png), auto;
+        cursor: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/5bc266ff/images/pause.png), auto;
 
     }
     .video-play-btn{
-        cursor: url(../images/play.png), auto !important;
+        cursor: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/5bc266ff/images/play.png), auto !important;
     }
 
     #polina button .fa{
@@ -950,7 +950,7 @@ html, body, .wrapper{
     WHY CHOOSE SECTION
 ========================= */
 .why-section {
-    background-image: url(../images/about-bg.jpg);
+    background-image: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/d8313efa/images/about-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -1068,7 +1068,7 @@ html, body, .wrapper{
         transition: all 0.5s
     }
     .panel-title > a:before{
-        content:url(../images/minus.png);
+        content:url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/5bc266ff/images/minus.png);
         display: block;
         position: absolute;
         top: 30px;
@@ -1092,7 +1092,7 @@ html, body, .wrapper{
         transition: all 0.5s
     }
     .panel-title > a.collapsed:before{
-        content:url(../images/plus.png);
+        content:url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/5bc266ff/images/plus.png);
         display: block;
         position: absolute;
         top: 30px;
@@ -1457,7 +1457,7 @@ html, body, .wrapper{
     padding-bottom: 0;
 }
     .testimonial-area {
-        background-image: url(../images/testimonial-bg.jpg);
+        background-image: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/ef5dd490/images/testimonial-bg.jpg);
         background-size: cover;
         text-align: center;
         position: relative;
@@ -1761,7 +1761,7 @@ html, body, .wrapper{
     RECENT WORK SECTION
 ========================= */
 .recent-work-section {
-    background-image: url(../images/work-bg.jpg);
+    background-image: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/ef5dd490/images/work-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -1777,7 +1777,7 @@ html, body, .wrapper{
         background:rgba(0, 0, 0, 0.83)
     }
     .recent-work-area {
-        background-image: url(../images/mac.png);
+        background-image: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/5bc266ff/images/mac.png);
         background-repeat: no-repeat;
         background-size: 100% 100%;
         position: relative;
@@ -1820,7 +1820,7 @@ html, body, .wrapper{
     position: relative;
 }
     .table-section {
-        background-image: url(../images/table-bg.jpg);
+        background-image: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/ef5dd490/images/table-bg.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         position: relative;
@@ -2102,7 +2102,7 @@ html, body, .wrapper{
     FUN FACTS SECTION
 ========================= */
 .fan-facts-section {
-    background-image: url(../images/FUN-BG.jpg);
+    background-image: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/ef5dd490/images/FUN-BG.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
@@ -2187,7 +2187,7 @@ html, body, .wrapper{
         display: block;
         width: 100%;
         height: 100%;
-        background: url(../images/white-plus.png) #46bfa9;
+        background: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/d8313efa/images/white-plus.png) #46bfa9;
         background-repeat: no-repeat;
         background-size: auto;
         background-position: center center;
@@ -2285,7 +2285,7 @@ html, body, .wrapper{
         display: block;
         width: 100%;
         height: 100%;
-        background: url(../images/white-plus.png) #46bfa9;
+        background: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/d8313efa/images/white-plus.png) #46bfa9;
         background-repeat: no-repeat;
         background-size: auto;
         background-position: center center;
@@ -2307,7 +2307,7 @@ html, body, .wrapper{
         display: block;
         width: 100%;
         height: 100%;
-        background: url(../images/white-plus.png) rgba(70, 191, 169, 1.0);
+        background: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/d8313efa/images/white-plus.png) rgba(70, 191, 169, 1.0);
         background-repeat: no-repeat;
         background-size: auto;
         background-position: center center;
@@ -2425,7 +2425,7 @@ html, body, .wrapper{
     CONTACT SECTION
 ========================= */
 .contact-section {
-    background: url(../images/map-bg.png) #2f3133;
+    background: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/d8313efa/images/map-bg.png) #2f3133;
     background-size: auto;
     background-position: center center;
     background-repeat: no-repeat;
@@ -2841,7 +2841,7 @@ html, body, .wrapper{
 
     /* RECENT WORK */
     .recent-work-area {
-        background-image: url(../images/mac.png);
+        background-image: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/d8313efa/images/mac.png);
         background-repeat: no-repeat;
         background-size: 100% 100%;
         position: relative;
@@ -3135,7 +3135,7 @@ html, body, .wrapper{
 .section.blog-title-section {
     display: block;
     width: 100%;
-    background: url(../images/title-bg.jpg) no-repeat;
+    background: url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/8d332a73/images/title-bg.jpg) no-repeat;
     background-size: cover;
     text-align: center;
     position: relative;
@@ -3427,7 +3427,7 @@ nav ul.pagination  li a:hover{
     -o-transition: all .5s;
     transition: all .5s;
     opacity: 0;
-    cursor:  url(../images/white-plus.png), auto;
+    cursor:  url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/d8313efa/images/white-plus.png), auto;
 }
 
 .recent-post:hover a{
@@ -3504,7 +3504,7 @@ nav ul.pagination  li a:hover{
     -o-transition: all .5s;
     transition: all .5s;
     opacity: 0;
-    cursor:  url(../images/white-plus.png), auto;
+    cursor:  url(https://cdn.rawgit.com/raficoo/KLASIK-NAUGHTY/d8313efa/images/white-plus.png), auto;
 }
 .widget-items a:hover:before{
     content: "";
